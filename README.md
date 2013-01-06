@@ -1,1 +1,2 @@
-wo shi wyt.
+This is the repo for Xing and Sea.
+
